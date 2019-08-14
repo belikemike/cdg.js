@@ -1,9 +1,11 @@
 {
   "name": "cdg.js",
-  "homepage": "https://github.com/willprescott/cdg.js",
+  "version": "1.0.0",
+  "description": "Karaoke player",
+  "homepage": "https://github.com/belikemike/cdg.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/willprescott/cdg.js.git"
+    "url": "git://github.com/belikemike/cdg.js.git"
   },
   "private": true,
   "devDependencies": {
